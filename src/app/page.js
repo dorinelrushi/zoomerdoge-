@@ -5,6 +5,7 @@ import Galery from "./components/Galery";
 import Header from "./components/Header";
 import HeroSection from "./components/HeroSection";
 import Partner from "./components/Partner";
+import ZoomerDogeTimeline from "./components/Timeline";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
         <About />
         <CommingHereOne />
         <Galery />
+        <ZoomerDogeTimeline />
       </div>
     </div>
   );

@@ -13,7 +13,7 @@ function Galery() {
 
   return (
     <div>
-      <div className="flex mt-[120px] overflow-hidden text-center mb-[80px] w-[80%] m-auto gap-[30px] flex-col lg:flex-row items-center justify-center">
+      <div className="flex mt-[60px] lg:mt-[120px] overflow-hidden text-center mb-[30px] lg:mb-[80px] w-[80%] m-auto gap-[30px] flex-col lg:flex-row items-center justify-center">
         {images.map((img, idx) => (
           <div
             key={idx}
