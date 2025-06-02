@@ -1,6 +1,6 @@
 import About from "./components/About";
 import CommingHereOne from "./components/Comming";
-import CountdownTimer from "./components/Countdown";
+
 import Galery from "./components/Galery";
 import Header from "./components/Header";
 import HeroSection from "./components/HeroSection";
